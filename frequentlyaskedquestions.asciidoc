@@ -12,7 +12,7 @@ This method is used to create a small .war file, containing the classes and thei
 The general `createTestArchive()` method which we recommend is as follows:
 
 ``` java
- @Deployment
+    @Deployment
     public static Archive<?> createTestArchive() {
         //HttpComponents and org.JSON are required by ContactService
         File[] libs = Maven.resolver().loadPomFromFile("pom.xml").resolve(
@@ -36,3 +36,14 @@ The general `createTestArchive()` method which we recommend is as follows:
 ```
 
 If you still run into problems, please ask a demonstrator for help.
+
+== I can't work out how to do `"..."`
+
+The base quickstart which you have been provided with has been heavily modified to include extensive comments and clear examples of the techniques we expect you to use.
+If you cannot work out how to do a step in the coursework, we suggest you look closely at how it is done in the coursework.
+
+Failing that we suggest the following useful documentation: 
+link:http://docs.jboss.org/hibernate/orm/4.2/manual/en-US/html/[Hibernate docs]
+link:http://docs.jboss.org/resteasy/docs/2.3.7.Final/userguide/html_single/index.html[JaxRS / RestEasy docs]
+link:https://github.com/FasterXML/jackson-docs[Jackson docs (we use v1.9.*)]
+link:http://hc.apache.org/httpcomponents-client-4.3.x/index.html[Apache HttpClient docs]
