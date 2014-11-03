@@ -40,7 +40,7 @@ If you still run into problems, please ask a demonstrator for help.
 == I can't work out how to do `"..."`
 
 The base quickstart which you have been provided with has been heavily modified to include extensive comments and clear examples of the techniques we expect you to use.
-If you cannot work out how to do a step in the coursework, we suggest you look closely at how it is done in the coursework.
+If you cannot work out how to do a step in the coursework, we suggest you look closely at how it is done in the quickstart.
 
 Failing that we suggest the following useful documentation:  
 
