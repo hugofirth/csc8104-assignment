@@ -43,6 +43,7 @@ The base quickstart which you have been provided with has been heavily modified 
 If you cannot work out how to do a step in the coursework, we suggest you look closely at how it is done in the coursework.
 
 Failing that we suggest the following useful documentation:  
+
 * link:http://docs.jboss.org/hibernate/orm/4.2/manual/en-US/html/[Hibernate docs]
 * link:http://docs.jboss.org/resteasy/docs/2.3.7.Final/userguide/html_single/index.html[JaxRS / RestEasy docs]
 * link:https://github.com/FasterXML/jackson-docs[Jackson docs (we use v1.9.*)]
