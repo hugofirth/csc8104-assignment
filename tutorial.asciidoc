@@ -97,16 +97,10 @@ During development of your application you may find it very useful to be able to
 
 === Deploying h2console
 
-Obtain the `h2console.war` file from here: https://github.com/jboss-developer/jboss-eap-quickstarts/tree/6.3.0.GA/h2-console and copy it into the "deployments" directory of your repository.
-
-Add this file to your git repository, commit and push.
-
-    git add deployments/h2console.war
-    git commit -m 'h2console.war first commit'
-    git push
+Obtain the `h2console.war` file from here: https://github.com/jboss-developer/jboss-eap-quickstarts/tree/6.3.0.GA/h2-console , copy it into the "standalone/deployments" directory of your *EAP_HOME* directory and restart your local JBoss server.
 
 === Accessing h2console
-You can access the console at http://<yourdomainname>.rhcloud.com/h2console.
+You can access the console at http://localhost:8080/h2console.
 
 To log into the datasource for your application, use the following details.
 
