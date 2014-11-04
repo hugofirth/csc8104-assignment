@@ -48,3 +48,10 @@ Failing that we suggest the following useful documentation:
 * link:http://docs.jboss.org/resteasy/docs/2.3.7.Final/userguide/html_single/index.html[JaxRS / RestEasy docs]
 * link:https://github.com/FasterXML/jackson-docs[Jackson docs (we use v1.9.*)]
 * link:http://hc.apache.org/httpcomponents-client-4.3.x/index.html[Apache HttpClient docs]
+
+== Can I use `"..."` instead of cURL?
+
+There are several good plugins which replicate the functionality of the cURL command line tool in a more user friendly manner.
+We don't mind if you choose to use one of these tools instead of cURL when testing your application. 
+
+Infact, we recommend a great Chrome extension called link:https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en[Postman].
