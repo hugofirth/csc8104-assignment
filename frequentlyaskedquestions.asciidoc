@@ -62,7 +62,7 @@ When working on part 2 of the coursework, you will encounter the requirement to 
 This could be difficult if you use common email addresses for your customers (john.smith@example.com etc...).
 
 Our suggestion is that you follow how such a system would work in the real world: a travel agency *is* the customer from the point of view of the commodity service.
-You're own records should record the relationship between the actual customer (John Smith) and the various external booking ids, but the external services need have no knowledge of John Smith or his details.
+Your own records should record the relationship between the actual customer (John Smith) and the various external booking ids, but the external services need have no knowledge of John Smith or his details.
 
 Once you have decided on whose services to use in part 2 (and the details of your travel agent customer), we advise that you ask those students to add your Travel Agent customer's details to their import.sql.
 This will mean that your travel agent customer will always exist on all external services it attempts to make bookings with.
