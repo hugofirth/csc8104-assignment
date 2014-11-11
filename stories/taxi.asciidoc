@@ -6,7 +6,7 @@ A consumer of your taxi booking api should:
 * Be able to retrieve a collection of all customers (and associated information) with a single request.
 * Be able to create a Taxi record with a registration, and a number of seats.
 * Be able to retrieve a collection of all taxis (and associated information) with a single request.
-* Be able to create a Booking record, with a Customer id and a Taxi id.
+* Be able to create a Booking record, with a Customer id, a Taxi id & a future date.
 * Be able to retrieve a collection of all bookings made by a particular Customer, with a single request.
 * Be able to delete a Booking record.
 * *Not* be able to delete Customer or Taxi records (these are unsupported operations).
