@@ -178,7 +178,7 @@ Your application should also generally provide appropriate visual indication of 
 
 IMPORTANT: You do *not* need to worry about providing automated tests of your frontend application.
 
-== Page 4 - Weight (10%)
+== Part 4 - Weight (10%)
 
 For the final part of this coursework you must further modify the frontend component of your application to interact with your TravelAgent resource and those resources of your Colleagues' upon which it depends.
 
