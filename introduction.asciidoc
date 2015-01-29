@@ -1,0 +1,66 @@
+= CSC8104 Introduction
+
+To complete this coursework you *MUST* first complete the tutorial document and then move onto the coursework document. 
+
+== Tutorial
+
+Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/tutorial.asciidoc[this document]
+
+You can also https://www.youtube.com/watch?v=JGm2yS4JIog[watch this video] to see the steps in action.
+
+IMPORTANT: Immediately after you create your Github account, send your registration email to Hugo Firth at (h.firth@ncl.ac.uk), including your name and university email address.
+If you already have an account, email Hugo Firth at (h.firth@ncl.ac.uk) with your name, email address and Github username.
+Hugo will then create your private repository and grant you access. You will then receive an email notification from Github containing details of your new repository.
+This will be sent to the email address you registered with Github.
+
+
+== Coursework
+
+Follow https://github.com/NewcastleComputingScience/enterprise-middleware-coursework/blob/master/coursework.asciidoc[this document].
+
+IMPORTANT: You must use the allocation list below to decide which service type to implement.
+
+
+== Course Demonstrator Profiles
+
+*Dr Paul Robinson* is a Principal Software Engineer at Red Hat and Leads the JBoss Developer team who provide Red Hat's Middleware developer programme. Paul is also a Visiting Fellow at the University. Paul has lead the Enterprise Distributed Computing coursework for over 10 years. He also supervises students for their Masters dissertation through industrial placements at Red Hat.
+
+*Ryan Emerson* is a final year PhD student who has studied at Newcastle University since 2007. Ryan graduated with a 2:1 BSc (Hons) in Computer Science in 2010 and obtained his Masters (ITEC) with Distinction in 2011. Currently Ryan is part of the Systems research group conducting research into probabilistic atomic broadcast protocols.
+
+*Hugo Firth* is a second year PhD student with the Digital Insitute who has studied at Newcastle University since 2010. Hugo has previously worked as a web developer, and is currently conducting research into horizontally scalable databases.
+
+*Sami Alajrami* is a second year PhD student who has obtained his Masters (ITEC) in 2012 with Distinction. Sami is currently conducting research into using cloud-based software process enactment.
+
+*Ioannis Sfyrakis* is a second year PhD student who obtained his Masters (ACS) in 2012 with Distinction. 
+
+
+== Finally
+Demonstrators will be available in your cluster rooms during all practical sessions. You should go and see them if you are having any difficulties. This includes understanding what you have to do.
+
+Discussion Boards will also be available for CSC8104 in Blackboard (http://bb.ncl.ac.uk). You may post any questions about the tutorial or coursework assignment here, and the discussion boards will be monitored by Course Demonstrators. Before posting you should use the discussion boards' search facilities to see if somebody has already encountered the same problem.
+
+TIP: If you see a question on the discussion boards you know how to answer, we strongly encourage you to assist your colleagues!
+
+
+== Allocation List
+
+[options="header"]
+|=====
+| Student name | Student number | Service
+| 130657804 | R. Chang | Flight
+| 140474091 | P. Chatzimanolis | Hotel
+| 140460441 | M. Daniilakis | Taxi
+| 140643284 | R.A. Jm Gining | Flight
+| 140563052 | S. Mukherjee | Hotel
+| 140464025 | M.A. Ramlan | Taxi
+| 140293816 | Z. Zhong | Flight
+| 140521096 | S.M. Coe | Hotel
+| 081776252 | A.N. Lekkas | Taxi
+| 140349858 | Z. Zhang | Flight
+| 110267229 | M.J.H. Phillips | Hotel
+| 110060653 | M. Sutula | Taxi
+| 110336260 | D. Daubaras | Flight
+| 110205379 | G.S. Prytherch | Hotel
+|=====
+
+IMPORTANT: If your name does not appear in the allocation list please contact Hugo Firth at h.firth@ncl.ac.uk as soon as possible (prior to the first practical session) and you will be assigned a service type and a private GitHub repository.
